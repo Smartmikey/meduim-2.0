@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/meduimsanity/node_modules
 /.pnp
 .pnp.js
 
